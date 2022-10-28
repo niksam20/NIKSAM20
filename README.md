@@ -3,6 +3,9 @@
 
 [![@niksam20's Holopin board](https://holopin.me/niksam20)](https://holopin.io/@niksam20)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niksam20&label=Profile%20views&color=0e75b6&style=flat" alt="niksam20" /> </p>
+
+
 - 🌱 I’m currently learning **JAVA, Git-Hub**
 
 - 👯 I’m looking to collaborate on **DevOps**
