@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **JS, MYSQL**
 
-- 🤝 I’m looking for help with **Frontend**
-
 - 📫 How to reach me **nikhilbisht0026@gmail.com**
 
 - ⚡ Fun fact **I'm an sports enthusiast.**
