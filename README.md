@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nikhilbisht0026@gmail.com**
 
-- ⚡ Fun fact **I'm an sports enthusiast.**
+- ⚡ Fun fact **I'm a sports enthusiast.**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
