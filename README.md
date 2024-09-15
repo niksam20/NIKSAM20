@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Singh Bisht</h1>
-<h3 align="center">3rd Year B. Tech CSE specialization in DevOps (Hons.) student.</h3>
+<h3 align="center">4rd Year B. Tech CSE specialization in DevOps (Hons.) student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niksam20&label=Profile%20views&color=0e75b6&style=flat" alt="niksam20" /> </p>
 
