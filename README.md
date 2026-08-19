@@ -6,10 +6,6 @@
   <a href="https://www.linkedin.com/in/niksam20" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/niksam_20" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" height="35" alt="Instagram"/>
-  </a>
 </p>
 
 ---
@@ -20,9 +16,6 @@
 * 🔧 Experienced with **Docker, Kubernetes, Jenkins, Git, GitHub, Terraform, and AWS**
 * ☁️ Hands-on experience with **AWS EC2, EKS, CI/CD pipelines, containerization, and cloud infrastructure**
 * 💻 Backend development using **Python, Node.js, Express.js, REST APIs, SQL, and MongoDB**
-* 🐧 Comfortable with **Linux/Ubuntu, Bash scripting, Git, and system administration**
-* 🔄 Interested in building **automated CI/CD pipelines and scalable cloud-native applications**
-* 📚 Currently strengthening my knowledge of **Kubernetes, Terraform, AWS, Jenkins, Helm, and Observability**
 * 💬 Ask me about **DevOps, Docker, Kubernetes, CI/CD, Linux, Git, Python, Backend Development, and Cloud**
 * 📫 Reach me at **[nikhilbisht0026@gmail.com](mailto:nikhilbisht0026@gmail.com)**
 * ⚡ Fun fact: **I'm a sports enthusiast.**
@@ -97,17 +90,3 @@
 `DevOps` • `Cloud Computing` • `CI/CD` • `Kubernetes` • `Containerization` • `Infrastructure as Code` • `Cloud-Native Applications` • `Backend Development` • `Automation` • `Observability`
 
 ---
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/niksam20" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/niksam_20" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" height="35" alt="Instagram"/>
-  </a>
-</p>
-
-**Email:** [nikhilbisht0026@gmail.com](mailto:nikhilbisht0026@gmail.com)
