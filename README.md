@@ -1,32 +1,113 @@
 <h1 align="center">Hi 👋, I'm Nikhil Singh Bisht</h1>
-<h3 align="center">4rd Year B. Tech CSE specialization in DevOps (Hons.) student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niksam20&label=Profile%20views&color=0e75b6&style=flat" alt="niksam20" /> </p>
+<h3 align="center">DevOps Engineer • Backend Developer | B.Tech CSE (DevOps Hons.)</h3>
 
-- 🔭 I’m currently learning **HTML, CSS, JS**
-
-- 🌱 I’m currently learning **Docker, Kubernetes**
-
-- 🤝 I’m looking for help with **Frontend**
-
-- 💬 Ask me about **Python, MySQL**
-
-- 📫 How to reach me **nikhilbisht0026@gmail.com**
-
-- ⚡ Fun fact **I'm a sports enthusiast.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/niksam20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="niksam20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhil bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil bisht" height="30" width="40" /></a>
-<a href="https://instagram.com/niksam_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niksam_20" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/niksam20" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/niksam_20" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" height="35" alt="Instagram"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niksam20&show_icons=true&locale=en&layout=compact" alt="niksam20" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niksam20&show_icons=true&locale=en" alt="niksam20" /></p>
+* 🚀 Focused on **DevOps, Cloud Computing, Backend Development, and Automation**
+* 🔧 Experienced with **Docker, Kubernetes, Jenkins, Git, GitHub, Terraform, and AWS**
+* ☁️ Hands-on experience with **AWS EC2, EKS, CI/CD pipelines, containerization, and cloud infrastructure**
+* 💻 Backend development using **Python, Node.js, Express.js, REST APIs, SQL, and MongoDB**
+* 🐧 Comfortable with **Linux/Ubuntu, Bash scripting, Git, and system administration**
+* 🔄 Interested in building **automated CI/CD pipelines and scalable cloud-native applications**
+* 📚 Currently strengthening my knowledge of **Kubernetes, Terraform, AWS, Jenkins, Helm, and Observability**
+* 💬 Ask me about **DevOps, Docker, Kubernetes, CI/CD, Linux, Git, Python, Backend Development, and Cloud**
+* 📫 Reach me at **[nikhilbisht0026@gmail.com](mailto:nikhilbisht0026@gmail.com)**
+* ⚡ Fun fact: **I'm a sports enthusiast.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niksam20&" alt="niksam20" /></p>
+---
+
+### 🛠️ DevOps & Cloud
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="45" height="45" alt="Helm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
+</p>
+
+**Technologies:**
+`Linux` `Git` `GitHub` `Docker` `Kubernetes` `Jenkins` `Terraform` `Helm` `AWS` `Nginx` `Bash` `CI/CD`
+
+---
+
+### 📊 Monitoring & Observability
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45" alt="Grafana"/>
+</p>
+
+**Tools:**
+`Prometheus` `Grafana` `AWS CloudWatch`
+
+---
+
+### 💻 Backend & Programming
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+</p>
+
+**Technologies:**
+`Python` `Java` `C/C++` `Node.js` `Express.js` `REST APIs` `SQL` `MySQL` `MongoDB`
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+* **AWS:** EC2, EKS, CloudWatch
+* **Infrastructure as Code:** Terraform
+* **Containers:** Docker, Docker Compose
+* **Orchestration:** Kubernetes
+* **Package Management:** Helm
+* **CI/CD:** Jenkins, GitHub Actions
+* **Web Server / Reverse Proxy:** Nginx
+* **Operating System:** Linux / Ubuntu
+* **Scripting:** Bash, Python
+
+---
+
+### 🚀 Areas of Interest
+
+`DevOps` • `Cloud Computing` • `CI/CD` • `Kubernetes` • `Containerization` • `Infrastructure as Code` • `Cloud-Native Applications` • `Backend Development` • `Automation` • `Observability`
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/niksam20" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/niksam_20" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" height="35" alt="Instagram"/>
+  </a>
+</p>
+
+**Email:** [nikhilbisht0026@gmail.com](mailto:nikhilbisht0026@gmail.com)
