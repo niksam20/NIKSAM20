@@ -19,7 +19,7 @@
 * ☁️ **Cloud:** hands-on with **AWS (EC2, EKS, S3, CloudWatch)**, CI/CD and cloud infrastructure
 * 🤖 Currently exploring **GenAI on top of data platforms**
 * 💬 Ask me about **data pipelines, Docker, Kubernetes, CI/CD, Python, SQL, AWS**
-* 📫 Reach me at **[nikhilbisht0026@gmail.com](mailto:nikhilbisht0026@gmail.com)**
+* 📫 Reach me at **[nikhilsinghbisht942@gmail.com](mailto:nikhilsinghbisht942@gmail.com)**
 * ⚡ Fun fact: **I'm a sports enthusiast.**
 
 ---
